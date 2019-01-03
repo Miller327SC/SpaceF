@@ -1,2 +1,2 @@
-java -jar SpaceFight0.1.jar
+java -jar SpaceFight0.2.jar
 @pause
